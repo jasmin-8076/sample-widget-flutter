@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:sampleflutterapp/main3.dart';
 import 'package:sampleflutterapp/screens/splash.dart';
+import 'package:flutter/widgets.dart';
 
 void main() {
-  runApp(myApp());
+  runApp(myapp());
 }
 class myapp extends StatelessWidget {
   const myapp({super.key});
